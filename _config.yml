@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
@@ -109,3 +110,6 @@ codepiano :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+=======
+theme: jekyll-theme-cayman
+>>>>>>> c31dc78a9d42d3b749aad9c71b88027ecf30087e
