@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "第一篇文章!"
+title:  "随便写点什么!"
 date:   2018-06-05 9:45:00 +0800
 tags: [Cursor]
 categories: [post]
