@@ -26,9 +26,12 @@ categories: [post]
 远程库可以是华为的
 也可以是github的远程库
 
+### 4.强行使用ruby模拟md的代码块
 {% highlight ruby%}
 	添加代码段示例
 {% endhighlight %}
 
-### 4.图片
-![添加图片示例]({{ site.url }}/images/wow.jif)
+### 5.图片
+![enter image description here](https://github.com/Codeniu/Codeniu.github.io/raw/master/images/wow.gif)
+
+看看siturl显示的是什么：{{site.url}}
