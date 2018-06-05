@@ -1,10 +1,10 @@
 ---
 layout: page
 title: code2line!
-tagline: 有点意思
+tagline: 爱生活爱自己
 keywords: youngniu, codeniu, 分享
 description: code2line,
-categories: [Android]
+categories: [index]
 ---
 
 {% include codepiano/setup %}
