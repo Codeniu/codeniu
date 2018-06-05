@@ -1,4 +1,3 @@
-# Codeniu.github.io
-my web
-##jekyll的安装
-##git的使用
+## 简介
+### 我的博客：[youngniu](http://Codeniu.github.io) 
+基于jekyll
