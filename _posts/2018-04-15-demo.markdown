@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "第一篇文章!"
-date:   2018-04-15 9:45:00 +0800
+# date:   2018-04-15 9:45:00 +0800
 tags: [Cursor]
 categories: [post]
 ---
 
-### 1、`_post`文件夹保存文章
+### 1、_post文件夹保存文章
 
 ### 2、每一篇文章的头
 
@@ -14,24 +14,21 @@ categories: [post]
 	title:  "第一篇文章!"
 	date:   2018-04-15 9:45:00 +0800
 	categories: [post]
-
-	文章的布局是：post
-	文章的标题	
-	文章的时间	
-	这个还不知道	
+    
+文章的布局是：post
+文章的标题	
+文章的时间	
+这个还不知道	
 	
 
 ### 3.配置Git
-
-
+    git clone "你的远程库的地址"
+远程库可以是华为的
+也可以是github的远程库
 
 {% highlight ruby%}
-
-git remote rm origin
-git remote add origin git@github.com:stormzhang/stormzhang.github.com.git
-git remote add octopress git://github.com/imathis/octopress.git  # 为了octopress的升级而添加
-
+	添加代码段示例
 {% endhighlight %}
 
 ### 4.图片
-![有帮助的截图]({{ site.url }}/images/beself.jpg)
+![添加图片示例]({{ site.url }}/images/wow.jif)
