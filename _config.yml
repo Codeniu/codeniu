@@ -18,7 +18,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: youngniu
 github_username:  Codeniu
 simple_search: http://google.com/search
-production_url : http://eleox.xin
+production_url :
 
 # Build settings
 markdown: kramdown
