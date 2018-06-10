@@ -2,13 +2,18 @@
 layout: post
 title:  "至暗时刻"
 date:   2018-06-09 23:45:00 +0800
+<<<<<<< HEAD
 tags: [Cursor]
 categories: [post]
 ---
 
 ## 成功不是终点，失败不是终结，唯有前进的勇气长存--温斯顿.丘吉尔
 
-![enter image description here](https://github.com/Codeniu/Codeniu.github.io/raw/master/images/Churchill1.png)
+<center>
+<img src="https://github.com/Codeniu/Codeniu.github.io/raw/master/images/Churchill1.png" width="50%" height="50%" />
+<strong>成功不是终点，失败不是终结，唯有前进的勇气长存--温斯顿.丘吉尔</strong>
+</center>
+
 
 ### success is not final
 ### failure is not fatal
@@ -22,4 +27,7 @@ categories: [post]
 ### to not buggering it up
 ### 敬不要将它搞杂
 
-![enter image description here](https://github.com/Codeniu/Codeniu.github.io/raw/master/images/Churchill2.png)
+<center>
+<img src="https://github.com/Codeniu/Codeniu.github.io/raw/master/images/Churchill2.png" width="50%" height="50%" />
+<strong>To not buggering it</strong>
+</center>
