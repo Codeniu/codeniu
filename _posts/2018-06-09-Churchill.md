@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "至暗时刻"
+title:  "观<至暗时刻>有感"
 date:   2018-06-09 23:45:00 +0800
 tags: [Cursor]
 categories: [post]
@@ -10,6 +10,7 @@ categories: [post]
 
 <center>
 <img src="https://github.com/Codeniu/Codeniu.github.io/raw/master/images/Churchill1.png" width="50%" height="50%" />
+<br>
 <strong>成功不是终点，失败不是终结，唯有前进的勇气长存--温斯顿.丘吉尔</strong>
 </center>
 
@@ -28,5 +29,6 @@ categories: [post]
 
 <center>
 <img src="https://github.com/Codeniu/Codeniu.github.io/raw/master/images/Churchill2.png" width="50%" height="50%" />
+<br>
 <strong>To not buggering it</strong>
 </center>
