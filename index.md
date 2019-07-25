@@ -28,6 +28,5 @@ categories: [index]
     	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-
 </ul>
 
