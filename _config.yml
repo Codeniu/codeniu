@@ -20,8 +20,8 @@ production_url:
 
 # Build settings
 markdown: kramdown
-# theme: minima
-theme: jekyll-theme-cayman
+theme: minima
+# theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
