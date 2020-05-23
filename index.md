@@ -10,15 +10,14 @@ categories: [index]
 {% include codepiano/setup %}
 
 ## 个人信息
-    
-    title : code2line  
+
+    title : code2line
     author :codeniu
     name : niuniuniu
     email : jingxiangniu@gmail.com
     github : Codeniu
     twitter : youngniu
 
-    
 ## 文章
 
 <ul class="posts">
@@ -29,4 +28,3 @@ categories: [index]
     </li>
   {% endfor %}
 </ul>
-
