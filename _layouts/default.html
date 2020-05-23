@@ -1,6 +1,13 @@
----
-theme :
-name : twitter
----
-{% include codepiano/setup %}
-{% include themes/twitter/default.html %}
+<!DOCTYPE html>
+<html ⚡ lang="en">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+
+    {{ content }}
+
+    {% comment %}
+        {% include analytics.html %}
+    {% endcomment %}
+  </body>
+</html>
