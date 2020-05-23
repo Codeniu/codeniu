@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "观<至暗时刻>有感"
-date: 2018-06-09 23:45:00 +0800
-tags: [Cursor]
-categories: [post]
+date: 2018-06-09 23:45:00
+tags: Cursor
+categories: post
 ---
 
 ## 成功不是终点，失败不是终结，唯有前进的勇气长存--温斯顿.丘吉尔

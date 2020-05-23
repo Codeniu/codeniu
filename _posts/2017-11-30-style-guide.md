@@ -1,17 +1,15 @@
 ---
 layout: post
-cover: 'assets/images/shiva.jpg'
+cover: "assets/images/shiva.jpg"
 title: Style Guide
 date: 2017-11-30 04:00:00
 tags: guide
-author: hanuman
+author: niu
 ---
 
 <p>This shows how you can use html styling to achieve your hopes.</p>
 
-
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
-
 
 <hr />
 
@@ -109,7 +107,6 @@ SUBMIT
 </div>
 </main>
 
-
 <main class="flex flex-wrap justify-around align-item items-center" markdown="0">
 <div class="flex flex-column items-center">
   <label class="www-example-label bold mb3">On</label>
@@ -188,7 +185,6 @@ SUBMIT
 </div>
 </main>
 
-
 <main class="flex flex-wrap justify-around align-item items-center" markdown="0">
 <div class="flex flex-column items-center">
   <label class="www-example-label bold mb3">Textarea</label>
@@ -241,14 +237,11 @@ SUBMIT
 
 <h3>Definition List</h3>
 
-
 Definition List Title
 : This is a definition list division.
 
-
 Definition
 : An exact statement or description of the nature, scope, or meaning of something: **our definition of what constitutes poetry.**
-
 
 <h3>Ordered List</h3>
 
@@ -296,29 +289,27 @@ Definition
 ```css
 /* css code sample */
 #container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
 }
 ```
-
 
 ```javascript
 // javascript code sample
 $.ajax({
-  type: 'POST',
-  url: 'backend.php',
-  data: "q="+myform.serialize(),
-  success: function(data){
+  type: "POST",
+  url: "backend.php",
+  data: "q=" + myform.serialize(),
+  success: function (data) {
     // on success use return data here
   },
-  error: function(xhr, type, exception) {
+  error: function (xhr, type, exception) {
     // if ajax fails display error alert
-    alert("ajax error response type "+type);
-  }
+    alert("ajax error response type " + type);
+  },
 });
 ```
-
 
 ```swift
 // Swift code sample
@@ -338,7 +329,6 @@ import Foundation
   }
 }
 ```
-
 
 <hr />
 
