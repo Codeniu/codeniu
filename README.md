@@ -1,3 +1,3 @@
 my blog
 
-https://codeniu.github.io/
+https://codeniu.github.io/codeniu/
