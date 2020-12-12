@@ -1,5 +1,5 @@
 # Hi I'm codeniu
-[![Facebook Badge](https://img.shields.io/badge/-codeniu.github.io-%231877F2.svg?&style=flat-square&logoColor=white&link=https://codeniu.github.io/)](https://codeniu.github.io/youngniu)
+[codeniu](https://codeniu.github.io/codeniu)
 
 Welcome to my profile! Thanks for visiting.
 
