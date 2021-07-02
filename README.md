@@ -1,5 +1,5 @@
 # Hi I'm codeniu
-[MyBlog](https://codeniu.github.io/youngniu)
+
 
 Welcome to my profile! Thanks for visiting.
 
@@ -11,6 +11,6 @@ Welcome to my profile! Thanks for visiting.
 
 ### Languages and Tools
 
-
+- JavaScript
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Codeniu.youngniu)
