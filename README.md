@@ -11,8 +11,6 @@ Welcome to my profile! Thanks for visiting.
 
 
 
-## Most Used Languages
-
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeniu&theme=white-green)
 
 
