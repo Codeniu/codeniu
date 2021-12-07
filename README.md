@@ -40,7 +40,7 @@ Welcome to my profile! Thanks for visiting.
 
 > 🏆 236 Contributions in the Year 2021
  > 
-> 📦 31.5 kB Used in Github's Storage 
+> 📦 31.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
