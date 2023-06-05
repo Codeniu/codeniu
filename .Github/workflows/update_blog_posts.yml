@@ -1,6 +1,9 @@
 name: Update Recent Blog Posts
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: '0 0 * * 0' # Run once a week at 00:00 (midnight) on Sunday
   workflow_dispatch:
