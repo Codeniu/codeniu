@@ -24,4 +24,6 @@ Welcome to my profile! Thanks for visiting.
 
  ![6](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Recent blog posts
+### Recent Blog Posts
+
+222
