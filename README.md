@@ -28,8 +28,8 @@ Welcome to my profile! Thanks for visiting.
 
 ### Recent Blog Posts
 
-* [Decoding Polkadot](https://www.bengreenberg.dev/posts/2023-05-31-decoding-polkadot/)
-* [Unlocking GitHub Codespaces for Workshops](https://www.bengreenberg.dev/posts/2023-05-22-codespaces-for-workshops/)
-* [The Importance of Blockchain Knowledge for Devs](https://www.bengreenberg.dev/posts/2023-05-16-importance-of-blockchain-for-new-devs/)
-* [Get Verified on Bluesky Social With Your GoDaddy Domain](https://www.bengreenberg.dev/posts/2023-04-26-get-verified-on-bluesky-godaddy/)
-* [ChatGPT for Gmail: The Chrome Extension to Fine-Tune Your Emails](https://www.bengreenberg.dev/posts/2023-04-13-chatgpt-gmail-chrome-extension/)
+* [辞职卖烤肠](https://juejin.cn/post//post/7220351836331311159)
+* [源码阅读 | 项目中常用的 .env 文件原理是什么？](https://juejin.cn/post//post/7180682987808227389)
+* [源码阅读 | open 打开浏览器](https://juejin.cn/post//post/7180334309239160890)
+* [源码共读 | koa-compose](https://juejin.cn/post//post/7179950005728313381)
+* [源码共读 | p-limit 限制并发数](https://juejin.cn/post//post/7179545091323887674)
