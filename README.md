@@ -1,4 +1,4 @@
-#
+# Codeniu
 
 Hi I'm codeniu
 
@@ -26,7 +26,7 @@ Welcome to my profile! Thanks for visiting.
 
  ![6](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Recent Blog Post
+### Recent Blog Posts
 
 * [Decoding Polkadot](https://www.bengreenberg.dev/posts/2023-05-31-decoding-polkadot/)
 * [Unlocking GitHub Codespaces for Workshops](https://www.bengreenberg.dev/posts/2023-05-22-codespaces-for-workshops/)
