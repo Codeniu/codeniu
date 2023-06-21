@@ -28,8 +28,8 @@ Welcome to my profile! Thanks for visiting.
 
 ### Recent Blog Posts
 
-* [辞职卖烤肠](https://juejin.cn/post//post/7220351836331311159)
-* [源码阅读 | 项目中常用的 .env 文件原理是什么？](https://juejin.cn/post//post/7180682987808227389)
-* [源码阅读 | open 打开浏览器](https://juejin.cn/post//post/7180334309239160890)
-* [源码共读 | koa-compose](https://juejin.cn/post//post/7179950005728313381)
-* [源码共读 | p-limit 限制并发数](https://juejin.cn/post//post/7179545091323887674)
+* [辞职卖烤肠](https://juejin.cn/post/7220351836331311159)
+* [源码阅读 | 项目中常用的 .env 文件原理是什么？](https://juejin.cn/post/7180682987808227389)
+* [源码阅读 | open 打开浏览器](https://juejin.cn/post/7180334309239160890)
+* [源码共读 | koa-compose](https://juejin.cn/post/7179950005728313381)
+* [源码共读 | p-limit 限制并发数](https://juejin.cn/post/7179545091323887674)
