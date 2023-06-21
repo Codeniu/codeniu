@@ -14,7 +14,7 @@ posts = parsed_page.css('.content-main .title')
 posts_list = ["\n### Recent Blog Posts\n\n"]
 posts.first(5).each do |post|
   title = post.text
-  link = "https://juejin.cn/post/#{post[:href]}"
+  link = "https://juejin.cn#{post[:href]}"
   posts_list << "* [#{title}](#{link})"
 end
 puts posts_list
